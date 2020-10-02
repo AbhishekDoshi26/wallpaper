@@ -14,4 +14,4 @@ Make the most of your display with beautiful wallpapers. ✨
 
 *Stay tuned for awesome new features ✌*
 
-*Show your ❤ and give give this repo a ⭐*
+*Show your ❤ and give this repo a ⭐*
