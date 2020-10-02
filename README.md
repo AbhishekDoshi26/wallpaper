@@ -1,16 +1,13 @@
 # wallpaper
 
-A new Flutter application.
+Make the most of your display with beautiful wallpapers.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Install the apk file
 
-A few resources to get you started if this is your first Flutter project:
+- Open the app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Set your favourite wallpaper to home/lock/both screen 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- That's it! Enjoy your new home screen.
